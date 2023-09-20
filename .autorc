@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "hxchen-2019",
+  "repo": "container-43ykgu0",
+  "name": "hxchen-2019",
+  "email": "hxchen.2019@sis.smu.edu.sg",
+}
